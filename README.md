@@ -1,7 +1,7 @@
 <a href="https://opensource.org/licenses/Apache-2.0" target="_blank"><img src="https://img.shields.io/badge/License-Apache_v2.0-blue.svg?style=flat"/></a>[ ![Download](https://api.bintray.com/packages/rohitshampur/maven/OkhttpHelper/images/download.svg) ](https://bintray.com/rohitshampur/maven/OkhttpHelper/_latestVersion)<a href="http://developer.android.com/index.html" target="_blank"><img src="https://img.shields.io/badge/platform-android-green.svg"/></a> <a href="https://android-arsenal.com/api?level=14" target="_blank"> <a href="https://android-arsenal.com/api?level=14" target="_blank"><img src="https://img.shields.io/badge/API-15%2B-green.svg?style=flat"/></a>
 <a href='https://bintray.com/rohitshampur/maven/OkhttpHelper/view?source=watch' alt='Get automatic notifications about new "OkhttpHelper" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a>
 # OkhttpHelper
-Helper class for okhttp library
+Android Helper class for okhttp library
 
 ###Usage
 #####gradle dependency

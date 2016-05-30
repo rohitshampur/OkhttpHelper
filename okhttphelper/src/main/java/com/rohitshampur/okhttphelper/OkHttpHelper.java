@@ -18,6 +18,7 @@ import okhttp3.Response;
 /**
  * Created by rohit on 30/5/16.
  */
+
 public class OkHttpHelper {
     private static final String TAG = OkHttpHelper.class.getSimpleName();
     private OkHttpClient client;
@@ -114,8 +115,7 @@ public class OkHttpHelper {
     /**
      * @param fileName   String filename
      * @param file       File file
-     * @return String response
-     * @throws IOException
+     * @return response String response
      */
     public String httpUpload(String url, String fileName, File file) throws IOException {
         client = new OkHttpClient.Builder().connectTimeout(30, TimeUnit.SECONDS).writeTimeout(30, TimeUnit.SECONDS).readTimeout(30, TimeUnit.SECONDS).build();
